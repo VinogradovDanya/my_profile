@@ -1,3 +1,3 @@
 # my_profile
 ## coming soon...
-[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinogradov)](https://github.com/vinogradov/github-readme-stats)
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinogradov)](https://github.com/VinogradovDanya/github-readme-stats)
